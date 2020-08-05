@@ -16,13 +16,13 @@
 |v6|https://www.bootstrapdash.com/product/purple-vue|No|$25-$249||
 |v7|https://github.com/epicmaxco/vuestic-admin|Si|||
 |v8|https://flatlogic.com/templates/sing-app-vue-dashboard|Si|$99.95-$449.95||
-|v9|
+|v9|https://themeforest.net/item/architectui-vuejs-bootstrap-admin-ui-dashboard-template/23392319|No
 |v10|
 |v11|
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IHZ1ZS9WdWV0aWZ5IGFkbW
 luIHRlbXBsYXRlXG5hdXRob3I6IEFsZXNzYW5kcm8gVG9ybmVz
-ZWxsb1xuIiwiaGlzdG9yeSI6WzUyMzg5NTIzOCwxNDc0ODc2ND
+ZWxsb1xuIiwiaGlzdG9yeSI6WzQzNjg1OTU2NiwxNDc0ODc2ND
 k5LC0xODMxNjUyNDYsLTM5ODA1MDAxMywxMTIzNzY5NTMwLC0y
 NjU0MzAyXX0=
 -->
