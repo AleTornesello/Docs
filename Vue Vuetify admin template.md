@@ -17,12 +17,12 @@
 |v7|https://github.com/epicmaxco/vuestic-admin|Si|||
 |v8|https://flatlogic.com/templates/sing-app-vue-dashboard|Si|$99.95-$449.95||
 |v9|https://themeforest.net/item/architectui-vuejs-bootstrap-admin-ui-dashboard-template/23392319|No|$35||
-|v10|
+|v10|https://themeforest.net/item/pragmatic-vuejs-admin-template/21775201|No|$24||
 |v11|
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IHZ1ZS9WdWV0aWZ5IGFkbW
 luIHRlbXBsYXRlXG5hdXRob3I6IEFsZXNzYW5kcm8gVG9ybmVz
-ZWxsb1xuIiwiaGlzdG9yeSI6WzYzMTM3NzAwLDE0NzQ4NzY0OT
-ksLTE4MzE2NTI0NiwtMzk4MDUwMDEzLDExMjM3Njk1MzAsLTI2
-NTQzMDJdfQ==
+ZWxsb1xuIiwiaGlzdG9yeSI6Wy0xNDMzMjgwNDksMTQ3NDg3Nj
+Q5OSwtMTgzMTY1MjQ2LC0zOTgwNTAwMTMsMTEyMzc2OTUzMCwt
+MjY1NDMwMl19
 -->
