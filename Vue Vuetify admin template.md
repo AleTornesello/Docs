@@ -13,5 +13,8 @@
 |v3|https://www.bootstrapdash.com/product/star-admin-vue|Si|$25-$249|
 |v4|https://www.creative-tim.com/product/vue-material-dashboard|Si|$59|vf1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzc2OTUzMCwtMjY1NDMwMl19
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IHZ1ZS9WdWV0aWZ5IGFkbW
+luIHRlbXBsYXRlXG5hdXRob3I6IEFsZXNzYW5kcm8gVG9ybmVz
+ZWxsb1xuIiwiaGlzdG9yeSI6WzEzNTI5OTUwMjAsMTEyMzc2OT
+UzMCwtMjY1NDMwMl19
 -->
