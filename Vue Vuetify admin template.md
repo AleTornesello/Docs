@@ -14,7 +14,7 @@
 |v4|https://www.creative-tim.com/product/vue-material-dashboard|Si|$59|vf1|
 |v5|https://github.com/epicmaxco/vuestic-admin|Si|||
 |v6|https://flatlogic.com/templates/sing-app-vue-dashboard|Si|$99.95-$449.95||
-|v7|
+|v7|https://www.bootstrapdash.com/product/purple-vue|No|$25-$249||
 |v8|
 |v9|
 |v10|
@@ -22,6 +22,7 @@
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IHZ1ZS9WdWV0aWZ5IGFkbW
 luIHRlbXBsYXRlXG5hdXRob3I6IEFsZXNzYW5kcm8gVG9ybmVz
-ZWxsb1xuIiwiaGlzdG9yeSI6Wy0xODMxNjUyNDYsLTM5ODA1MD
-AxMywxMTIzNzY5NTMwLC0yNjU0MzAyXX0=
+ZWxsb1xuIiwiaGlzdG9yeSI6WzE0NzQ4NzY0OTksLTE4MzE2NT
+I0NiwtMzk4MDUwMDEzLDExMjM3Njk1MzAsLTI2NTQzMDJdfQ==
+
 -->
