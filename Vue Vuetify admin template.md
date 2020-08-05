@@ -15,9 +15,13 @@
 |v5|https://github.com/epicmaxco/vuestic-admin|Si|||
 |v6|https://flatlogic.com/templates/sing-app-vue-dashboard|Si|$99.95-$449.95||
 |v7|
+|v8|
+|v9|
+|v10|
+|v11|
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IHZ1ZS9WdWV0aWZ5IGFkbW
 luIHRlbXBsYXRlXG5hdXRob3I6IEFsZXNzYW5kcm8gVG9ybmVz
-ZWxsb1xuIiwiaGlzdG9yeSI6WzIwMjc0Nzk1NTIsLTM5ODA1MD
+ZWxsb1xuIiwiaGlzdG9yeSI6Wy0xODMxNjUyNDYsLTM5ODA1MD
 AxMywxMTIzNzY5NTMwLC0yNjU0MzAyXX0=
 -->
