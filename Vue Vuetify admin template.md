@@ -18,11 +18,11 @@
 |v8|https://flatlogic.com/templates/sing-app-vue-dashboard|Si|$99.95-$449.95||
 |v9|https://themeforest.net/item/architectui-vuejs-bootstrap-admin-ui-dashboard-template/23392319|No|$35||
 |v10|https://themeforest.net/item/pragmatic-vuejs-admin-template/21775201|No|$24||
-|v11|
+|v11|https://themeforest.net/item/materialpro-vuejs-admin-template/26758785|No|$49-$799||
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IHZ1ZS9WdWV0aWZ5IGFkbW
 luIHRlbXBsYXRlXG5hdXRob3I6IEFsZXNzYW5kcm8gVG9ybmVz
-ZWxsb1xuIiwiaGlzdG9yeSI6Wy0xNDMzMjgwNDksMTQ3NDg3Nj
-Q5OSwtMTgzMTY1MjQ2LC0zOTgwNTAwMTMsMTEyMzc2OTUzMCwt
-MjY1NDMwMl19
+ZWxsb1xuIiwiaGlzdG9yeSI6WzQ0Njc4NDc5NiwtMTQzMzI4MD
+Q5LDE0NzQ4NzY0OTksLTE4MzE2NTI0NiwtMzk4MDUwMDEzLDEx
+MjM3Njk1MzAsLTI2NTQzMDJdfQ==
 -->
